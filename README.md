@@ -25,3 +25,5 @@ realizados vários questionamentos sobre o código apresentado.
 Importante:
 • Não serão pontuados os grupos que deixarem de entregar algum dos itens pedidos.
 • Valor da Atividade Computacional: 2,0 pontos.
+
+.
